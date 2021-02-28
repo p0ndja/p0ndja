@@ -16,7 +16,7 @@ Because I'm not the professional, my code sometimes still messy, dirty and compl
 </p>
 
 ## My Recent Project
-![Image](https://uni.pondja.com/file/2021/03/01/graderga.jpg)
+![Image](https://uni.pondja.com/file/2021/03/01/graderga_1.jpg)
 The [**CoE30-KKU/graderga**](https://github.com/CoE30-KKU/graderga) project is the most recent project that I currently working on. This project mainly target to create a custom made-for-student grader for grading computer programming language. The initial idea was aimed at support only Python, but our team decided to extend support for Java, C and C++, and will be extended in the future if it needs.
 
 You can try a demo here: [**grader.ga**](https://grader.ga/)
