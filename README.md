@@ -16,9 +16,9 @@ Because I'm not the professional, my code sometimes still messy, dirty and compl
 </p>
 
 ## My Recent Project
-![Image](https://uni.pondja.com/file/2021/03/01/cover.jpg)
-The [**p0ndja/WebDev**](https://github.com/p0ndja/WebDev) project is the most recent project that I currently working on. This project mainly to update outdated-unfashionable-leaked currently [smd.kku.ac.th](https://smd.kku.ac.th/) website that still using Joomla 2.5.2 and Apache 2.4.7...... errr what!?. So this brand new redesign-rebuild-recreation web is base on PHP with JavaScript and decorating with Bootstrap 4.5.0 and MDBootstrap.
+![Image](https://uni.pondja.com/file/2021/03/01/graderga.jpg)
+The [**CoE30-KKU/graderga**](https://github.com/CoE30-KKU/graderga) project is the most recent project that I currently working on. This project mainly target to create a custom made-for-student grader for grading computer programming language. The initial idea was aimed at support only Python, but our team decided to extend support for Java, C and C++, and will be extended in the future if it needs.
 
-You can try a demo here: [**smd.pondja.com**](https://smd.pondja.com)
+You can try a demo here: [**grader.ga**](https://grader.ga/)
 
-This project is currently in-develop so it's not fully finish 100%, If you found any bug please report at [p0ndja/WebDev/issues/](https://github.com/p0ndja/WebDev/issues) or create a pull request to me.
+This project is currently under development, so it's not fully functional and can't guarantee that's working 100 percent correctly, If you found any bug please report at its specified in the website.
