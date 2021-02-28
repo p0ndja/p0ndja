@@ -16,7 +16,7 @@ Because I'm not the professional, my code sometimes still messy, dirty and compl
 </p>
 
 ## My Recent Project
-![Image](https://img.p0nd.ga/2020/08/28/webdev.jpg)
+![Image](https://uni.pondja.com/file/2021/03/01/cover.jpg)
 The [**p0ndja/WebDev**](https://github.com/p0ndja/WebDev) project is the most recent project that I currently working on. This project mainly to update outdated-unfashionable-leaked currently [smd.kku.ac.th](https://smd.kku.ac.th/) website that still using Joomla 2.5.2 and Apache 2.4.7...... errr what!?. So this brand new redesign-rebuild-recreation web is base on PHP with JavaScript and decorating with Bootstrap 4.5.0 and MDBootstrap.
 
 You can try a demo here: [**smd.pondja.com**](https://smd.pondja.com)
