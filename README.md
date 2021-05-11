@@ -1,7 +1,7 @@
 ## Hello World!
 My name is **Palapon Soontornpas**, but I'm going by the alias **PondJaᵀᴴ**. Since I'm from Thailand, my primary language will be Thai, but I'll make my programming more foreign. 💻
 
-I'm a Moderate Programmer who can code in C, C++, Java, Python, and HTML, PHP, CSS, and JavaScript. I'm also a Web Developer who can code in HTML, PHP, CSS, and JavaScript. 🖥
+I'm a Moderate Programmer who can code in C, C++, Java, and Python. I'm also a Web Developer who can code in HTML, PHP, CSS, and JavaScript. 🖥
 
 Since2016, I've been studying programming through the [**p0ndja/SMDMain**](https://github.com/p0ndja/SMD_Main) project. It's just a simple Java Plugin for Minecraft, a game I've been playing since I was a kid, but it's the start of my computer programming studies. This project has been updated since then because it is valuable to me and shows how far I have come. 🎮
 
