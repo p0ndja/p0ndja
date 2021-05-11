@@ -1,11 +1,11 @@
 ## Hello World!
-My name is **Palapon Soontornpas**, but I supposed to use pseudonym as **'PondJaᵀᴴ'**. My main language will be in Thai because I'm from Thailand, But I will make my programming in  💻
+My name is **Palapon Soontornpas**, but I'm going by the alias **PondJaᵀᴴ**. Since I'm from Thailand, my primary language will be Thai, but I'll make my programming more foreign. 💻
 
-I'm a Moderate Programmer that can programming in C, C++, Java, Python and I also a Web Developer, in HTML, PHP, CSS, JavaScript. 🖥
+I'm a Moderate Programmer who can code in C, C++, Java, Python, and HTML, PHP, CSS, and JavaScript. I'm also a Web Developer who can code in HTML, PHP, CSS, and JavaScript. 🖥
 
-I started learning programming since 2016 from the [**p0ndja/SMDMain**](https://github.com/p0ndja/SMD_Main) project. It's just a simple Minecraft's Java Plugin, the game that I started playing since I was young, but it's the beginning of my studying in computer programming. From then to now, this project still being updated because it's important for me and show how far I come. 🎮
+Since2016, I've been studying programming through the [**p0ndja/SMDMain**](https://github.com/p0ndja/SMD_Main) project. It's just a simple Java Plugin for Minecraft, a game I've been playing since I was a kid, but it's the start of my computer programming studies. This project has been updated since then because it is valuable to me and shows how far I have come. 🎮
 
-Because I'm not the professional, my code sometimes still messy, dirty and complicated. So, Feel free to pull your request if you want me to change what you want or what bug you found. 🔎
+Since I'm not a professional, my code can be messy, dirty, and confusing at times. So, if you want me to change what you want or fix a bug you find, feel free to pull your request. 🔎
 <p align='center'>
         <a href="https://www.facebook.com/p0ndja"><img src="https://image.flaticon.com/icons/svg/733/733547.svg" width="32"></a>
         <a href="https://twitter.com/p0ndja"><img src="https://image.flaticon.com/icons/svg/1409/1409937.svg" width="32"></a>
