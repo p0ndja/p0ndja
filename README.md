@@ -18,8 +18,8 @@ Since I'm not a professional, my code can be messy, dirty, and confusing at time
 
 ## My Recent Project
 <a href="https://grader.ga/" target="_blank">![Image](https://i.imgur.com/Vrj8O8s.jpg)</a>
-The [**CoE30-KKU/graderga**](https://github.com/CoE30-KKU/graderga) project is the most recent project that I currently working on. This project mainly target to create a custom made-for-student grader for grading computer programming language. The initial idea was aimed at support only Python, but our team decided to extend support for Java, C and C++, and will be extended in the future if it needs.
+The most recent project on which I am currently working is the [**CoE30-KKU/graderga**](https://github.com/CoE30-KKU/graderga) project. The main goal of this project is to build a custom made-for-student grader for computer programming language grading. The original plan was to support only Python, but our team decided to add support for Java, C, and C++, which will be expanded as needed in the future.
 
 You can try a demo here: [**grader.ga**](https://grader.ga/)
 
-This project is currently under development, so it's not fully functional and can't guarantee that's working 100 percent correctly, If you found any bug please report at its specified in the website.
+This project is still in progress, so it isn't completely functional yet, and we can't guarantee that all is working correctly. If you find a bug, please report it to the address listed on the website.
