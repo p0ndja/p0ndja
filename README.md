@@ -1,11 +1,11 @@
 ## Hello World!
-My name is **Palapon Soontornpas**, but I'm going by the alias **PondJaᵀᴴ**. Since I'm from Thailand, my primary language will be Thai, but I'll make my programming more foreign. 💻
+สวัสดี! I'm **Palapon Soontornpas**, but I'm going by the alias **PondJaᵀᴴ**. Since I'm from Thailand, my primary language will be Thai, but I'll make my programming more foreign. 💻
 
-I'm a Moderate Programmer who can code in C, C++, Java, and Python. I'm also a Web Developer who can code in HTML, PHP, CSS, and JavaScript. 🖥
+I'm a Moderate Programmer, coding in C, C++, Java, and Python. I'm also a Web Developer in HTML, PHP, CSS, and JavaScript. 🖥
 
-Since2016, I've been studying programming through the [**p0ndja/SMDMain**](https://github.com/p0ndja/SMD_Main) project. It's just a simple Java Plugin for Minecraft, a game I've been playing since I was a kid, but it's the start of my computer programming studies. This project has been updated since then because it is valuable to me and shows how far I have come. 🎮
+Since 2016, I've been studying programming through the [**p0ndja/SMDMain**](https://github.com/p0ndja/SMD_Main) project. It's just a simple Java Plugin for Minecraft, a game I've been playing since I was a kid, but it's the start of my computer programming studies. This project has been updated since then because it is valuable to me and shows how far I have come. 🎮
 
-Since I'm not a professional, my code can be messy, dirty, and confusing at times. So, if you want me to change what you want or fix a bug you find, feel free to pull your request. 🔎
+Because I'm not a professional, my code can be messy, dirty, and confusing at times. So, if you want me to change on something you want or fix a bug you find, feel free to pull your request. 🔎
 <p align='center'>
         <a href="https://www.facebook.com/p0ndja"><img src="https://image.flaticon.com/icons/svg/733/733547.svg" width="32"></a>
         <a href="https://twitter.com/p0ndja"><img src="https://image.flaticon.com/icons/svg/1409/1409937.svg" width="32"></a>
