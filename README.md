@@ -27,4 +27,11 @@ You can try a demo here: [**grader.ga**](https://grader.ga/)
 
 This project is still in progress, so it isn't completely functional yet, and we can't guarantee that all is working correctly. If you find a bug, please report it to the address listed on the website.
 
+## GitHub Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=p0ndja&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0ndja&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 Profile Credit: [@Yai_Sea_Ball](https://www.twitter.com/Yai_Sea_Ball/status/1358370165537185792)
