@@ -7,16 +7,18 @@ Since 2016, I've been studying programming through the [**p0ndja/SMDMain**](http
 
 Because I'm not a professional, my code can be messy, dirty, and confusing at times. So, if you want me to change on something you want or fix a bug you find, feel free to pull your request. 🔎
 <p align='center'>
-        <a href="https://www.facebook.com/p0ndja"><img src="https://image.flaticon.com/icons/svg/733/733547.svg" width="32"></a>
-        <a href="https://twitter.com/p0ndja"><img src="https://image.flaticon.com/icons/svg/1409/1409937.svg" width="32"></a>
-        <a href="https://instagr.am/p0ndja"><img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="32"></a>
-        <a href="mailto:palapon2545@gmail.com"><img src="https://image.flaticon.com/icons/svg/3617/3617143.svg" width="32"></a>
+        <a href="https://www.facebook.com/p0ndja"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" width="32"></a>
+        <a href="https://twitter.com/p0ndja"><img src="https://abs.twimg.com/favicons/twitter.ico" width="32"></a>
+        <a href="https://instagr.am/p0ndja"><img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" width="32"></a>
+        <a href="mailto:palapon2545@gmail.com"><img src="https://www.google.com/a/cpanel/kkumail.com/images/favicon.ico" width="32"></a>
         <a href="https://smd.pondja.com"><img src="https://raw.githubusercontent.com/p0ndja/WebDev/master/static/images/logo/smdlogo.png" width="32"></a>
         <a href="https://grader.pondja.com/"><img src="https://raw.githubusercontent.com/CoE30-KKU/graderga/master/static/elements/logo/logo.png" width="32"></a>
         <a href="https://lca.pondja.com/"><img src="https://raw.githubusercontent.com/CoE30-KKU/lca.grader.ga/master/static/elements/logo/logo.png" width="32"></a>
         <a href="https://pharm.md.kku.ac.th/"><img src="https://pharm.md.kku.ac.th/static/elements/logo/favicon-32x32.png" width="32"></a>
         <a href="https://pedmd.kku.ac.th/"><img src="https://pedmd.kku.ac.th/static/elements/logo/favicon-32x32.png" width="32"></a>
         <a href="https://www.pondja.com"><img src="https://pondja.com/p0ndja_square.png" width="32"></a>
+        <br>
+        <a href='https://ko-fi.com/F1F66QUHS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
 ## My Recent Project
@@ -31,7 +33,5 @@ This project is still in progress, so it isn't completely functional yet, and we
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=p0ndja&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0ndja&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 Profile Credit: [@Yai_Sea_Ball](https://www.twitter.com/Yai_Sea_Ball/status/1358370165537185792)
