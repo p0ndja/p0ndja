@@ -11,7 +11,7 @@ Because I'm not a professional, my code can be messy, dirty, and confusing at ti
         <a href="https://twitter.com/p0ndja"><img src="https://abs.twimg.com/favicons/twitter.ico" width="32"></a>
         <a href="https://instagr.am/p0ndja"><img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" width="32"></a>
         <a href="mailto:palapon2545@gmail.com"><img src="https://www.google.com/a/cpanel/kkumail.com/images/favicon.ico" width="32"></a>
-</p><br>
+</p>
 <p align='center'>
         <a href="https://smd.pondja.com"><img src="https://raw.githubusercontent.com/p0ndja/WebDev/master/static/images/logo/smdlogo.png" width="32"></a>
         <a href="https://grader.pondja.com/"><img src="https://raw.githubusercontent.com/CoE30-KKU/graderga/master/static/elements/logo/logo.png" width="32"></a>
