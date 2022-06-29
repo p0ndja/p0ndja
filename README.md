@@ -16,9 +16,8 @@ Because I'm not a professional, my code can be messy, dirty, and confusing at ti
         <a href="https://lca.pondja.com/"><img src="https://raw.githubusercontent.com/CoE30-KKU/lca.grader.ga/master/static/elements/logo/logo.png" width="32"></a>
         <a href="https://pharm.md.kku.ac.th/"><img src="https://pharm.md.kku.ac.th/static/elements/logo/favicon-32x32.png" width="32"></a>
         <a href="https://pedmd.kku.ac.th/"><img src="https://pedmd.kku.ac.th/static/elements/logo/favicon-32x32.png" width="32"></a>
+        <a href="https://srinagarind.kku.ac.th/"><img src="https://srinagarind.md.kku.ac.th/static/asset/logo/favicon-32x32.png" width="32"></a>
         <a href="https://www.pondja.com"><img src="https://pondja.com/p0ndja_square.png" width="32"></a>
-        <br>
-        <a href='https://ko-fi.com/F1F66QUHS' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
 ## My Recent Project
