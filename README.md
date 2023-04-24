@@ -1,3 +1,6 @@
+## Want to know me better~?
+See my full resume/portfolio here: https://p0ndja.github.io/
+
 ## Hello World!
 สวัสดี! I'm **Palapon Soontornpas**, but I'm going by the alias **PondJaᵀᴴ**. Since I'm from Thailand, my primary language will be Thai, but I'll make my programming more foreign. 💻
 
