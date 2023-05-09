@@ -16,13 +16,13 @@ Because I'm not a professional, my code can be messy, dirty, and confusing at ti
         <a href="mailto:palapon2545@gmail.com"><img src="https://www.google.com/a/cpanel/kkumail.com/images/favicon.ico" width="32"></a>
 </p>
 <p align='center'>
-        <a href="https://smd.pondja.com"><img src="https://raw.githubusercontent.com/p0ndja/WebDev/master/static/images/logo/smdlogo.png" width="32"></a>
-        <a href="https://grader.pondja.com/"><img src="https://raw.githubusercontent.com/CoE30-KKU/graderga/master/static/elements/logo/logo.png" width="32"></a>
-        <a href="https://lca.pondja.com/"><img src="https://raw.githubusercontent.com/CoE30-KKU/lca.grader.ga/master/static/elements/logo/logo.png" width="32"></a>
-        <a href="https://pharm.md.kku.ac.th/"><img src="https://pharm.md.kku.ac.th/static/elements/logo/favicon-32x32.png" width="32"></a>
+        <a href="https://smd.pondja.com"><img src="https://smd.pondja.com/static/images/logo/smdlogo.png" width="32"></a>
+        <a href="https://grader.pondja.com/"><img src="https://grader.pondja.com/static/elements/logo/logo.png" width="32"></a>
+        <a href="https://lca.pondja.com/"><img src="https://lca.pondja.com/static/elements/logo/logo.png" width="32"></a>
+        <a href="https://pharm.md.kku.ac.th/"><img src="https://pharm.md.kku.ac.th/static/asset/logo/favicon-32x32.png" width="32"></a>
         <a href="https://pedmd.kku.ac.th/"><img src="https://pedmd.kku.ac.th/static/elements/logo/favicon-32x32.png" width="32"></a>
         <a href="https://srinagarind.kku.ac.th/"><img src="https://srinagarind.md.kku.ac.th/static/asset/logo/favicon-32x32.png" width="32"></a>
-        <a href="https://www.pondja.com"><img src="https://pondja.com/p0ndja_square.png" width="32"></a>
+        <a href="https://www.pondja.com"><img src="https://pondja.com/p0ndja.jpg" width="32"></a>
 </p>
 
 ## My Recent Project
