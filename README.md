@@ -9,7 +9,7 @@ Since 2016, I've been studying programming through the [**p0ndja/SMDMain**](http
 
 Because I'm not a professional, my code can be messy, dirty, and confusing at times. So, if you want me to change on something you want or fix a bug you find, feel free to create a pull request. 🔎
 <p align='center'>
-        <a href="https://www.facebook.com/p0ndja"><img src="https://static-00.iconduck.com/assets.00/facebook-color-icon-2048x2048-bfly1vxr.png" width="32"></a>
+        <a href="https://www.facebook.com/p0ndja"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="32"></a>
         <a href="https://twitter.com/p0ndja"><img src="https://abs.twimg.com/favicons/twitter.ico" width="32"></a>
         <a href="https://instagr.am/p0ndja"><img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" width="32"></a>
         <a href="mailto:palapon2545@gmail.com"><img src="https://www.google.com/a/cpanel/kkumail.com/images/favicon.ico" width="32"></a>
