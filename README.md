@@ -1,5 +1,3 @@
-Read the full-version portfolio at https://p0ndja.github.io/
-
 ## Hello World!
 สวัสดี! I'm **Palapon Soontornpas**, but I'm going by the name **p0ndja**. Since I'm from Thailand, my primary language will be Thai, but I also fluent in English as well.
 
