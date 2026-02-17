@@ -5,8 +5,6 @@ Currently, I am pursuing a Master's Degree in Computer Engineering at [Faculty o
 
 Since 2016, I've been studying programming through the [**p0ndja/SMDMain**](https://github.com/p0ndja/SMD_Main) project. It's just a simple Java Plugin for Minecraft, a game I've been playing since I was a kid, but it's the start of my computer programming studies. This project has been updated since then because it is valuable to me and shows how far I have come.
 
-Great to see you here, have a nice day! :)
-
 Still want to know me more? [Read more here!](https://p0ndja.github.io)
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0ndja&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Great to see you here, have a nice day! :)
